@@ -15,6 +15,22 @@
 		B93578501F44158C00238F0B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B935784E1F44158C00238F0B /* LaunchScreen.storyboard */; };
 		B935785B1F44158C00238F0B /* StretchSlideTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B935785A1F44158C00238F0B /* StretchSlideTests.m */; };
 		B93578661F44158C00238F0B /* StretchSlideUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = B93578651F44158C00238F0B /* StretchSlideUITests.m */; };
+		B93578761F4415E100238F0B /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B93578751F4415E100238F0B /* MainViewController.m */; };
+		B93578801F44395C00238F0B /* HggNaviController.m in Sources */ = {isa = PBXBuildFile; fileRef = B935787F1F44395C00238F0B /* HggNaviController.m */; };
+		B93578831F443C0C00238F0B /* HggNavigationVC.m in Sources */ = {isa = PBXBuildFile; fileRef = B93578821F443C0C00238F0B /* HggNavigationVC.m */; };
+		B93578871F4440B100238F0B /* UIImage+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = B93578861F4440B100238F0B /* UIImage+Extension.m */; };
+		B935788B1F44445300238F0B /* HggSliderTool.m in Sources */ = {isa = PBXBuildFile; fileRef = B935788A1F44445300238F0B /* HggSliderTool.m */; };
+		B935788E1F4444C300238F0B /* HgLeftViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B935788D1F4444C300238F0B /* HgLeftViewController.m */; };
+		B93578921F444DAB00238F0B /* HggPersonViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B93578911F444DAB00238F0B /* HggPersonViewController.m */; };
+		B93578951F444E0900238F0B /* HggItem.m in Sources */ = {isa = PBXBuildFile; fileRef = B93578941F444E0900238F0B /* HggItem.m */; };
+		B93578981F444E6F00238F0B /* HggCommenTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B93578971F444E6F00238F0B /* HggCommenTableViewCell.m */; };
+		B93578B41F452AFC00238F0B /* HggMyWalletViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B93578B31F452AFC00238F0B /* HggMyWalletViewController.m */; };
+		B93578B71F452B2100238F0B /* HggRouteViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B93578B61F452B2100238F0B /* HggRouteViewController.m */; };
+		B93578BA1F452B3200238F0B /* HggMessageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B93578B91F452B3200238F0B /* HggMessageViewController.m */; };
+		B93578BD1F452B3F00238F0B /* HggShareViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B93578BC1F452B3F00238F0B /* HggShareViewController.m */; };
+		B93578C01F452B6000238F0B /* HggSaleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B93578BF1F452B6000238F0B /* HggSaleViewController.m */; };
+		B93578C31F452B7700238F0B /* HggHelpViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B93578C21F452B7700238F0B /* HggHelpViewController.m */; };
+		B93578C61F452B8300238F0B /* HggSetViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B93578C51F452B8300238F0B /* HggSetViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +67,39 @@
 		B93578611F44158C00238F0B /* StretchSlideUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StretchSlideUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B93578651F44158C00238F0B /* StretchSlideUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StretchSlideUITests.m; sourceTree = "<group>"; };
 		B93578671F44158C00238F0B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B93578741F4415E100238F0B /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		B93578751F4415E100238F0B /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
+		B935787E1F44395C00238F0B /* HggNaviController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HggNaviController.h; sourceTree = "<group>"; };
+		B935787F1F44395C00238F0B /* HggNaviController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HggNaviController.m; sourceTree = "<group>"; };
+		B93578811F443C0C00238F0B /* HggNavigationVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HggNavigationVC.h; sourceTree = "<group>"; };
+		B93578821F443C0C00238F0B /* HggNavigationVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HggNavigationVC.m; sourceTree = "<group>"; };
+		B93578851F4440AC00238F0B /* UIImage+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+Extension.h"; sourceTree = "<group>"; };
+		B93578861F4440B100238F0B /* UIImage+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Extension.m"; sourceTree = "<group>"; };
+		B93578891F44445300238F0B /* HggSliderTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HggSliderTool.h; sourceTree = "<group>"; };
+		B935788A1F44445300238F0B /* HggSliderTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HggSliderTool.m; sourceTree = "<group>"; };
+		B935788C1F4444C300238F0B /* HgLeftViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HgLeftViewController.h; sourceTree = "<group>"; };
+		B935788D1F4444C300238F0B /* HgLeftViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HgLeftViewController.m; sourceTree = "<group>"; };
+		B93578901F444DAB00238F0B /* HggPersonViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HggPersonViewController.h; sourceTree = "<group>"; };
+		B93578911F444DAB00238F0B /* HggPersonViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HggPersonViewController.m; sourceTree = "<group>"; };
+		B93578931F444E0900238F0B /* HggItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HggItem.h; sourceTree = "<group>"; };
+		B93578941F444E0900238F0B /* HggItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HggItem.m; sourceTree = "<group>"; };
+		B93578961F444E6F00238F0B /* HggCommenTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HggCommenTableViewCell.h; sourceTree = "<group>"; };
+		B93578971F444E6F00238F0B /* HggCommenTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HggCommenTableViewCell.m; sourceTree = "<group>"; };
+		B93578B21F452AFC00238F0B /* HggMyWalletViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HggMyWalletViewController.h; sourceTree = "<group>"; };
+		B93578B31F452AFC00238F0B /* HggMyWalletViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HggMyWalletViewController.m; sourceTree = "<group>"; };
+		B93578B51F452B2100238F0B /* HggRouteViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HggRouteViewController.h; sourceTree = "<group>"; };
+		B93578B61F452B2100238F0B /* HggRouteViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HggRouteViewController.m; sourceTree = "<group>"; };
+		B93578B81F452B3200238F0B /* HggMessageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HggMessageViewController.h; sourceTree = "<group>"; };
+		B93578B91F452B3200238F0B /* HggMessageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HggMessageViewController.m; sourceTree = "<group>"; };
+		B93578BB1F452B3F00238F0B /* HggShareViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HggShareViewController.h; sourceTree = "<group>"; };
+		B93578BC1F452B3F00238F0B /* HggShareViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HggShareViewController.m; sourceTree = "<group>"; };
+		B93578BE1F452B6000238F0B /* HggSaleViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HggSaleViewController.h; sourceTree = "<group>"; };
+		B93578BF1F452B6000238F0B /* HggSaleViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HggSaleViewController.m; sourceTree = "<group>"; };
+		B93578C11F452B7700238F0B /* HggHelpViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HggHelpViewController.h; sourceTree = "<group>"; };
+		B93578C21F452B7700238F0B /* HggHelpViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HggHelpViewController.m; sourceTree = "<group>"; };
+		B93578C41F452B8300238F0B /* HggSetViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HggSetViewController.h; sourceTree = "<group>"; };
+		B93578C51F452B8300238F0B /* HggSetViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HggSetViewController.m; sourceTree = "<group>"; };
+		B93578C71F452BBF00238F0B /* Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,15 +150,22 @@
 		B935783F1F44158C00238F0B /* StretchSlide */ = {
 			isa = PBXGroup;
 			children = (
+				B93578991F444F5300238F0B /* 视图子视图 */,
+				B935788F1F444D8600238F0B /* 视图 */,
+				B935787A1F44369900238F0B /* Navc */,
+				B93578731F4415B300238F0B /* VC */,
+				B93578881F44442F00238F0B /* Model */,
 				B93578431F44158C00238F0B /* AppDelegate.h */,
 				B93578441F44158C00238F0B /* AppDelegate.m */,
 				B93578461F44158C00238F0B /* ViewController.h */,
 				B93578471F44158C00238F0B /* ViewController.m */,
 				B93578491F44158C00238F0B /* Main.storyboard */,
+				B93578841F4440A600238F0B /* Category */,
 				B935784C1F44158C00238F0B /* Assets.xcassets */,
 				B935784E1F44158C00238F0B /* LaunchScreen.storyboard */,
 				B93578511F44158C00238F0B /* Info.plist */,
 				B93578401F44158C00238F0B /* Supporting Files */,
+				B93578C71F452BBF00238F0B /* Header.h */,
 			);
 			path = StretchSlide;
 			sourceTree = "<group>";
@@ -138,6 +194,80 @@
 				B93578671F44158C00238F0B /* Info.plist */,
 			);
 			path = StretchSlideUITests;
+			sourceTree = "<group>";
+		};
+		B93578731F4415B300238F0B /* VC */ = {
+			isa = PBXGroup;
+			children = (
+				B93578741F4415E100238F0B /* MainViewController.h */,
+				B93578751F4415E100238F0B /* MainViewController.m */,
+				B935787E1F44395C00238F0B /* HggNaviController.h */,
+				B935787F1F44395C00238F0B /* HggNaviController.m */,
+				B93578811F443C0C00238F0B /* HggNavigationVC.h */,
+				B93578821F443C0C00238F0B /* HggNavigationVC.m */,
+				B935788C1F4444C300238F0B /* HgLeftViewController.h */,
+				B935788D1F4444C300238F0B /* HgLeftViewController.m */,
+			);
+			path = VC;
+			sourceTree = "<group>";
+		};
+		B935787A1F44369900238F0B /* Navc */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Navc;
+			sourceTree = "<group>";
+		};
+		B93578841F4440A600238F0B /* Category */ = {
+			isa = PBXGroup;
+			children = (
+				B93578851F4440AC00238F0B /* UIImage+Extension.h */,
+				B93578861F4440B100238F0B /* UIImage+Extension.m */,
+			);
+			path = Category;
+			sourceTree = "<group>";
+		};
+		B93578881F44442F00238F0B /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				B93578891F44445300238F0B /* HggSliderTool.h */,
+				B935788A1F44445300238F0B /* HggSliderTool.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		B935788F1F444D8600238F0B /* 视图 */ = {
+			isa = PBXGroup;
+			children = (
+				B93578901F444DAB00238F0B /* HggPersonViewController.h */,
+				B93578911F444DAB00238F0B /* HggPersonViewController.m */,
+				B93578931F444E0900238F0B /* HggItem.h */,
+				B93578941F444E0900238F0B /* HggItem.m */,
+				B93578961F444E6F00238F0B /* HggCommenTableViewCell.h */,
+				B93578971F444E6F00238F0B /* HggCommenTableViewCell.m */,
+			);
+			name = "视图";
+			sourceTree = "<group>";
+		};
+		B93578991F444F5300238F0B /* 视图子视图 */ = {
+			isa = PBXGroup;
+			children = (
+				B93578B21F452AFC00238F0B /* HggMyWalletViewController.h */,
+				B93578B31F452AFC00238F0B /* HggMyWalletViewController.m */,
+				B93578B51F452B2100238F0B /* HggRouteViewController.h */,
+				B93578B61F452B2100238F0B /* HggRouteViewController.m */,
+				B93578B81F452B3200238F0B /* HggMessageViewController.h */,
+				B93578B91F452B3200238F0B /* HggMessageViewController.m */,
+				B93578BB1F452B3F00238F0B /* HggShareViewController.h */,
+				B93578BC1F452B3F00238F0B /* HggShareViewController.m */,
+				B93578BE1F452B6000238F0B /* HggSaleViewController.h */,
+				B93578BF1F452B6000238F0B /* HggSaleViewController.m */,
+				B93578C11F452B7700238F0B /* HggHelpViewController.h */,
+				B93578C21F452B7700238F0B /* HggHelpViewController.m */,
+				B93578C41F452B8300238F0B /* HggSetViewController.h */,
+				B93578C51F452B8300238F0B /* HggSetViewController.m */,
+			);
+			name = "视图子视图";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -273,9 +403,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B93578921F444DAB00238F0B /* HggPersonViewController.m in Sources */,
 				B93578481F44158C00238F0B /* ViewController.m in Sources */,
+				B93578BA1F452B3200238F0B /* HggMessageViewController.m in Sources */,
+				B935788B1F44445300238F0B /* HggSliderTool.m in Sources */,
+				B935788E1F4444C300238F0B /* HgLeftViewController.m in Sources */,
+				B93578871F4440B100238F0B /* UIImage+Extension.m in Sources */,
+				B93578951F444E0900238F0B /* HggItem.m in Sources */,
 				B93578451F44158C00238F0B /* AppDelegate.m in Sources */,
+				B93578C61F452B8300238F0B /* HggSetViewController.m in Sources */,
+				B93578C31F452B7700238F0B /* HggHelpViewController.m in Sources */,
+				B93578B71F452B2100238F0B /* HggRouteViewController.m in Sources */,
 				B93578421F44158C00238F0B /* main.m in Sources */,
+				B93578831F443C0C00238F0B /* HggNavigationVC.m in Sources */,
+				B93578BD1F452B3F00238F0B /* HggShareViewController.m in Sources */,
+				B93578761F4415E100238F0B /* MainViewController.m in Sources */,
+				B93578801F44395C00238F0B /* HggNaviController.m in Sources */,
+				B93578C01F452B6000238F0B /* HggSaleViewController.m in Sources */,
+				B93578981F444E6F00238F0B /* HggCommenTableViewCell.m in Sources */,
+				B93578B41F452AFC00238F0B /* HggMyWalletViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
